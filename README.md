@@ -1,2 +1,4 @@
 # ECE2112-PA3
-This is my submission for our PA3 on ece2112
+Name: Cruz, Christian Enzo B. </br>
+Section: 2ECE-D </br></br>
+### Experiment 3 - PANDAS
