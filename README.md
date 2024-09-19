@@ -20,7 +20,7 @@ After successfully loading the csv file, we now have to load the first 5 rows an
 And now to load the last 5 rows we will be using the pandas code tail(5) shown on the image below.</br>
 ![image](https://github.com/user-attachments/assets/73b552b3-d1d8-469f-a0cf-12b97c389c05)</br></br>
 
-#### Problem 
+#### Problem 2
 By using the dataframe cars  in problem 1, extract the following information using subsetting, slicing and
 indexing operations.</br>
 
